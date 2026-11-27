@@ -1,2 +1,2 @@
-# Owasp-threat-dragon-model
-# e-commerce Threat Model
+# Assignment 2 Repository
+# E-commerce Threat Model
